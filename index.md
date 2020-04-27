@@ -5,6 +5,7 @@
 ### Guided RDS set-up and PowerBi Dashboard build   
 
 [Setting-up AWS RDS Postgres, deploy a database and build a power Bi dashboard  ](/awsrds-terraform-pbi)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
@@ -12,15 +13,20 @@
 
 ---
 
-### Category Name 1 
+### Predictive Maintenance Project
 
-[Predictive Maintenance Project](/Predictive-Maintenance)
+[Predictive Maintenance Project](https://github.com/ChristopherCochet/Predictive-Maintenance)
+
 Check out the use of classification models to predict the operation state (functional, repair needed, not failure) of water pumps in Tanzania.
+
 <img src="https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Predictions.PNG?raw=true"/>
 
 ---
-[Retail Customers Clustering Project](/pdf/Retail-Customer-Segmentation)
+### Retail Customers Clustering Project
+[Retail Customers Clustering Project](https://github.com/ChristopherCochet/Retail-Customer-Segmentation)
+
 Check out the use of unsupervised learning techniques (PCA, Gaussian Mixture Model) to analyze a dataset containing data on various customers' annual spending amounts for diverse product categories purchased
+
 <img src="https://github.com/ChristopherCochet/Retail-Customer-Segmentation/Retail Customer Clusters.PNG?raw=true"/>
 
 ---
