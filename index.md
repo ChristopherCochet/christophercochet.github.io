@@ -24,10 +24,10 @@ Check out the use of classification models to predict the operation state (funct
 <img src="https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Predictions.PNG?raw=true"/>
 
 ---
-### Wholesale distributor customer spending analysis to support the introduction of a new delivery service that best meet the needs of the customers.
+### Wholesale distributor customer spending analysis
 [Retail Customers Clustering Project - Python](https://github.com/ChristopherCochet/Retail-Customer-Segmentation)
 
-Check out the use of unsupervised learning techniques (PCA, Gaussian Mixture Model) to analyze a dataset containing data on various customers' annual spending amounts for diverse product categories purchased
+Check out the use of unsupervised learning techniques (PCA, Gaussian Mixture Model) to analyze a dataset containing data on various customers' annual spending amounts for diverse product categories purchased. The analysis aims to support the introduction of a new delivery service that best meet the needs of the customers.
 
 <img src="https://github.com/ChristopherCochet/Retail-Customer-Segmentation/blob/master/Retail%20Customer%20Clusters.PNG?raw=true"/>
 
