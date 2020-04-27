@@ -4,36 +4,24 @@
 
 ### Guided RDS set-up and PowerBi Dashboard build   
 
-[Project 1 Title](/sample_page)
+[Setting-up AWS RDS Postgres, deploy a database and build a power Bi dashboard  ](/awsrds-terraform-pbi)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-
-## Portfolio
+## Data Science Portfolio
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predictive Maintenance Project](/Predictive-Maintenance)
+Check out the use of classification models to predict the operation state (functional, repair needed, not failure) of water pumps in Tanzania.
+<img src="https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Predictions.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Retail Customers Clustering Project](/pdf/Retail-Customer-Segmentation)
+Check out the use of unsupervised learning techniques (PCA, Gaussian Mixture Model) to analyze a dataset containing data on various customers' annual spending amounts for diverse product categories purchased
+<img src="https://github.com/ChristopherCochet/Retail-Customer-Segmentation/Retail Customer Clusters.PNG?raw=true"/>
 
 ---
 
