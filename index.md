@@ -31,20 +31,6 @@ Check out the use of unsupervised learning techniques (PCA, Gaussian Mixture Mod
 
 <img src="https://github.com/ChristopherCochet/Retail-Customer-Segmentation/blob/master/Retail%20Customer%20Clusters.PNG?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
