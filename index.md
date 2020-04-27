@@ -4,7 +4,7 @@
 
 ### AWS RDS (mostly) automated set-up and PowerBi Dashboard build   
 
-[Setting-up AWS RDS Postgres, deploy a database and build a power BI dashboard  ](/awsrds-terraform-pbi)
+[Setting-up AWS RDS Postgres, deploy a database and build a power BI dashboard  ](https://github.com/ChristopherCochet/awsrds-terraform-pbi/blob/master/index.md)
 Check out how to set-up an AWS RDS database instance using terraform, deploy a databse and connect to it to build a simple Power BI dashboard.
 
 <img src="https://github.com/ChristopherCochet/awsrds-terraform-pbi/blob/master/images/Project%20Overview.PNG?raw=true"/>
