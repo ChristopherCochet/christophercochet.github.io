@@ -2,9 +2,18 @@
 
 ---
 
+### Machine Learning Model Simple Deployment to the Cloud  
+
+[Deploying An ML Model (Regression) API to the Cloud using a Flask App and Heroku](https://github.com/ChristopherCochet/salary_prediction_flask_heroku/blob/master/README.md)
+
+Check out how to deploy and test a trained salary prediction model to the cloud using a Flask web API/endpoint.
+
+<img src="https://github.com/ChristopherCochet/salary_prediction_flask_heroku/blob/master/images/readme.PNG?raw=true"/>
+
+
 ### AWS RDS (mostly) automated set-up and PowerBi Dashboard build   
 
-[Setting-up an AWS RDS Postgres instance, deploy a database and build a power BI dashboard  ](https://github.com/ChristopherCochet/awsrds-terraform-pbi/blob/master/index.md)
+[Setting-up an AWS RDS Postgres instance, deploy a database and build a power BI dashboard](https://github.com/ChristopherCochet/awsrds-terraform-pbi/blob/master/index.md)
 
 Check out how to set-up an AWS RDS database instance using terraform, deploy a databse and connect to it to build a simple Power BI dashboard.
 
