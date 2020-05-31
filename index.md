@@ -2,7 +2,7 @@
 
 ---
 
-### Machine Learning Model Simple Deployment to the Cloud  
+### Machine Learning Model Deployment to the Cloud  
 
 [Deploying An ML Model (Regression) API to the Cloud using a Flask App and Heroku](https://github.com/ChristopherCochet/salary_prediction_flask_heroku/blob/master/README.md)
 
