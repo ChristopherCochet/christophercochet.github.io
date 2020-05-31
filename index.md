@@ -10,6 +10,7 @@ Check out how to deploy and test a trained salary prediction model to the cloud 
 
 <img src="https://github.com/ChristopherCochet/salary_prediction_flask_heroku/blob/master/images/readme.PNG?raw=true"/>
 
+---
 
 ### AWS RDS (mostly) automated set-up and PowerBi Dashboard build   
 
