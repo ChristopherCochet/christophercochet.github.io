@@ -25,6 +25,16 @@ Check out how to set-up an AWS RDS database instance using terraform, deploy a d
 
 ---
 
+### Market basket analysis of Instacart's 2017 Grocery Purchase Dataset  
+
+[Using Association Rules and the A Priori algorithm to identify customer purchases patterns and provide items recommendations](https://github.com/ChristopherCochet/Market-Basket-Analysis)
+
+Check out how market basket analysis can be used to analyze an online grocery dataset, customer purchase behaviors and provide simple purchase recommendations based on a customer's basket.
+
+<img src="https://github.com/ChristopherCochet/Market-Basket-Analysis/blob/main/images/mba-intro.PNG?raw=true"/>
+
+---
+
 ### Predicting the operational statuses of water assets
 
 [Predictive Maintenance Project - Python](https://github.com/ChristopherCochet/Predictive-Maintenance)
