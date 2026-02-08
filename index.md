@@ -13,13 +13,13 @@ Currently at **[Canva](https://www.canva.com)** in **Data & Platform Engineering
 
 **Languages:** Python • SQL • R • Rust
 
-**Data Engineering:** dbt • Snowflake • Apache Spark • Airflow • PostgreSQL
+**Data Engineering:** dbt • Snowflake • Fivetran • Apache Spark • Airflow • PostgreSQL
 
-**Machine Learning:** TensorFlow • Scikit-Learn • Pandas • MLflow • Weights & Biases
+**Machine Learning:** Scikit-Learn • Pandas • MLflow • Weights & Biases
 
 **Cloud & DevOps:** AWS • Terraform • Docker • Kubernetes • CI/CD
 
-**Tools:** Git • Jupyter • Power BI • FastAPI • Flask
+**Tools:** Git • Looker • Jupyter • Power BI • FastAPI • Flask
 
 ## Guided Projects
 
