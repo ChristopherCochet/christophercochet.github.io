@@ -3,6 +3,21 @@
 <div class="project-grid">
   <div class="project-card">
     <div class="project-card-image">
+      <span class="project-card-badge">Data Engineering</span>
+      <img src="https://github.com/ChristopherCochet/dbt-automated-pipepline/raw/main/images/dbt_pipeline.png" alt="dbt Automated Pipeline"/>
+    </div>
+    <div class="project-card-content">
+      <h3 class="project-card-title">dbt Automated Data Pipeline</h3>
+      <p class="project-card-description">Modern data stack implementation combining dbt Core for SQL transformations with Meltano for ELT orchestration. Ingests cryptocurrency API data into PostgreSQL, featuring multi-layer transformations and automated GitHub Actions workflows.</p>
+      <a href="https://github.com/ChristopherCochet/dbt-automated-pipepline" class="project-card-link">
+        <span>View Project</span>
+        <i class="fas fa-arrow-right"></i>
+      </a>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <div class="project-card-image">
       <span class="project-card-badge">Cloud ML</span>
       <img src="https://github.com/ChristopherCochet/salary_prediction_flask_heroku/blob/master/images/readme.PNG?raw=true" alt="ML Model Deployment"/>
     </div>
@@ -85,21 +100,6 @@
       <h3 class="project-card-title">Census Bureau Salary Classification Pipeline</h3>
       <p class="project-card-description">Complete CI/CD pipeline for deploying an ML salary classifier using GitHub Actions, DVC for data versioning, FastAPI for serving predictions, and automated Heroku deployment with testing and linting.</p>
       <a href="https://github.com/ChristopherCochet/census_bureau_classification_heroku_pipeline" class="project-card-link">
-        <span>View Project</span>
-        <i class="fas fa-arrow-right"></i>
-      </a>
-    </div>
-  </div>
-
-  <div class="project-card">
-    <div class="project-card-image">
-      <span class="project-card-badge">Data Engineering</span>
-      <img src="https://github.com/ChristopherCochet/dbt-automated-pipepline/raw/main/images/dbt_pipeline.png" alt="dbt Automated Pipeline"/>
-    </div>
-    <div class="project-card-content">
-      <h3 class="project-card-title">dbt Automated Data Pipeline</h3>
-      <p class="project-card-description">Modern data stack implementation combining dbt Core for SQL transformations with Meltano for ELT orchestration. Ingests cryptocurrency API data into PostgreSQL, featuring multi-layer transformations and automated GitHub Actions workflows.</p>
-      <a href="https://github.com/ChristopherCochet/dbt-automated-pipepline" class="project-card-link">
         <span>View Project</span>
         <i class="fas fa-arrow-right"></i>
       </a>
