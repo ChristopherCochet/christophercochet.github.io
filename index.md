@@ -2,17 +2,13 @@
 
 I'm an **Analytics Engineering professional** based in **New Zealand**, specializing in building scalable data pipelines, transforming raw data into actionable insights, and enabling data-driven decision making through modern data stack solutions.
 
----
+**Currently at [Canva](https://www.canva.com) in Data & Platform Engineering**
 
-Currently at **[Canva](https://www.canva.com)** in **Data & Platform Engineering**, scaling warehouse infrastructure and data platforms:
-
-- Snowflake optimization & dbt pipeline management
-
-- Data architecture (Iceberg, Semantic Layer, Cortex Intelligence)
-
-- CI/CD automation & observability
-
-- Pipeline orchestration & stakeholder enablement
+Scaling warehouse infrastructure and data platforms:
+  - Snowflake optimization & dbt pipeline management
+  - Data architecture (Iceberg, Semantic Layer, Cortex Intelligence)
+  - CI/CD automation & observability
+  - Pipeline orchestration & stakeholder enablement
 
 ## Skills & Tech Stack
 
