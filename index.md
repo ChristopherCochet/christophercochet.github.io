@@ -20,7 +20,7 @@ I'm an **Analytics Engineering professional** based in **New Zealand**, speciali
 
 **Tools:** Git • Looker • Jupyter • Power BI • FastAPI • Flask
 
-## Data Engineering Portfolio
+## ML & Data Engineering Portfolio
 
 <div class="project-grid">
   <div class="project-card">
